@@ -1,9 +1,9 @@
 {
   "mcpServers": {
     "task-tracker": {
-      "command": "C:\\Users\\19658\\Documents\\Codex\\2026-09-16\\files-pasted-by-the-user-this\\outputs\\task-tracker\\.venv\\Scripts\\python.exe",
+      "command": "C:\\Users\\19658\\OneDrive\\school homework\\Cornell\\ENMGT 4405 Applied Artificial Intelligence for Technical Teams\\MCP Assignment\\task-tracker\\.venv\\Scripts\\python.exe",
       "args": [
-        "C:\\Users\\19658\\Documents\\Codex\\2026-09-16\\files-pasted-by-the-user-this\\outputs\\task-tracker\\server.py"
+        "C:\\Users\\19658\\OneDrive\\school homework\\Cornell\\ENMGT 4405 Applied Artificial Intelligence for Technical Teams\\MCP Assignment\\task-tracker\\server.py"
       ]
     }
   }
