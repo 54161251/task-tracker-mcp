@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "task-tracker": {
+      "command": "C:\\Users\\19658\\Documents\\Codex\\2026-09-16\\files-pasted-by-the-user-this\\outputs\\task-tracker\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\19658\\Documents\\Codex\\2026-09-16\\files-pasted-by-the-user-this\\outputs\\task-tracker\\server.py"
+      ]
+    }
+  }
+}
